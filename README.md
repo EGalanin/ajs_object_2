@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pw7eoso5jhlavps1?svg=true)](https://ci.appveyor.com/project/EGalanin/ajs-object-2)
